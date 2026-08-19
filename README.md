@@ -242,6 +242,7 @@ Used `LEFT JOIN` and `IS NULL` to identify books that were issued but have not y
 ```text
 Library-Management-System/
 │
+├── ERR-Diagram
 ├── Library_Project.sql
 ├── README.md
 ├── DATA
@@ -250,7 +251,6 @@ Library-Management-System/
     └── issued_status.csv
     └── members.csv
     └── return_status.csv
-└── /
 
 ```
 ---
