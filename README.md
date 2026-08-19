@@ -1,4 +1,4 @@
-# 📚 Library Management System (SQL Project)
+<img width="1447" height="1086" alt="image" src="https://github.com/user-attachments/assets/f2404483-f6f3-4a5a-bb80-c7196306b907" /># 📚 Library Management System (SQL Project)
 
 ## 📌 Project Overview
 
@@ -242,11 +242,15 @@ Used `LEFT JOIN` and `IS NULL` to identify books that were issued but have not y
 ```text
 Library-Management-System/
 │
-├── README.md
 ├── Library_Project.sql
-├── queries.sql
-├── er_diagram.png
-└── screenshots/
+├── README.md
+├── DATA
+    └── books.csv
+    └── employees.csv
+    └── issued_status.csv
+    └── members.csv
+    └── return_status.csv
+└── /
 
 ```
 ---
