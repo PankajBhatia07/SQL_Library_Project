@@ -1,4 +1,4 @@
-<img width="1447" height="1086" alt="image" src="https://github.com/user-attachments/assets/f2404483-f6f3-4a5a-bb80-c7196306b907" /># 📚 Library Management System (SQL Project)
+# 📚 Library Management System (SQL Project)
 
 ## 📌 Project Overview
 
