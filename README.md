@@ -274,7 +274,11 @@ Library-Management-System/
 ---
 
 ## 👨‍💻 Author
+Email : pankajbhatia938@gmail.com
+Linkedin : https://www.linkedin.com/in/pankaj-411463302/
+Github : https://github.com/PankajBhatia07
 Pankaj Bhatia
+
 
 ## ⭐ If you like this project
 
